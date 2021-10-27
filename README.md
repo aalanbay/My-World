@@ -22,7 +22,16 @@
   
 <h3><center>Next, Turkish coffee plays a significant role in social interactions. There is a common saying that emphasizes how important it is to make a good Turkish coffee: "A cup of coffee is remembered for 40 years", so everyone is taught how to prepare one from early age.</center></h3>
 <center><img src="Images/trkahve.jpg" width="500" height="303"></center>
+<p>Photo Credit: Ahmed Aqtai<p>
 
 <div>
 Lastly, Baklava is a very famous desert that has both religious and cultural roots. It has many layers of dough, sometimes over 30, which requires many hours of labor. It is common to find Baklava in every Turkish restaurant but is very difficult to prepare it at home. 
 <center><img src="Images/baklava.jpg" width="400" height="225"></center>
+<p>Photo Credit: Ekrulila<p>
+
+<h3><center>Since we have established how much I like Turkish food, we can move on to other aspects of my life. Meet Boris, he is my uncle's Bulldog, and my one and only love in this world.</center></h3>
+<center><img src="Images/boris.jpg" width="400" height="225"></center>
+<h3><center>One thing about me is that I love animals. I have fed many stray cats during my upbringing, and I adopted one of them recently. Introducing Fluffy, the smartes cat I have encountered.</center></h3>
+<center><img src="Images/tuylu.jpg" width="400" height="225"></center>
+  
+  
