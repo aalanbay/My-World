@@ -1,4 +1,4 @@
-                 <h1>Alara's World</h1>
+<h1><center>Alara's World<center></h1>
 <div>
   
 <h2>Hello there! Welcome to my personal website. Get ready for a fun adventure!!</h2>
