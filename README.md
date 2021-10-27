@@ -1,5 +1,5 @@
 <div>  
-<h2><center><fontcolor="FF339F">Hello there! Welcome to my personal website. Get ready for a fun adventure!</font></center></h2>
+<h2 style="color:#FF0000"><center>Hello there! Welcome to my personal website. Get ready for a fun adventure!</center></h2>
 <div>
 <center><img src="Images/PHOTO-2021-04-21-15-11-49.jpg"></center>
 
