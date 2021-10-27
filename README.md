@@ -25,7 +25,7 @@
 <p>Photo Credit: Ahmed Aqtai<p>
 
 <div>
-Lastly, Baklava is a very famous desert that has both religious and cultural roots. It has many layers of dough, sometimes over 30, which requires many hours of labor. It is common to find Baklava in every Turkish restaurant but is very difficult to prepare it at home. 
+<h3><center>Lastly, Baklava is a very famous desert that has both religious and cultural roots. It has many layers of dough, sometimes over 30, which requires many hours of labor. It is common to find Baklava in every Turkish restaurant but is very difficult to prepare it at home.</center></h3>
 <center><img src="Images/baklava.jpg" width="400" height="225"></center>
 <p>Photo Credit: Ekrulila<p>
 
