@@ -31,7 +31,6 @@
 
 <h3><center>Since we have established how much I like Turkish food, we can move on to other aspects of my life. Meet Boris, he is my uncle's Bulldog, and my one and only love in this world.</center></h3>
 <center><img src="Images/boris.jpg" width="225" height="400"></center>
-<h3><center>One thing about me is that I love animals. I have fed many stray cats during my upbringing, and I adopted one of them recently. Introducing Fluffy, the smartes cat I have encountered.</center></h3>
-<center><img src="Images/tuylu.jpg" width="225" height="400"></center>
-  
-
+<h3><center>One thing about me is that I love animals. I have fed many stray cats during my upbringing, and I adopted one of them recently. Introducing Fluffy, the smartest cat I have encountered, and her baby Smoke.</center></h3>
+<center><img src="Images/IMG_5725.jpg"></center>
+ 
