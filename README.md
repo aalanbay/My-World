@@ -1,5 +1,5 @@
 <div>  
-<h2 style="color:#FF0000"><center>Hello there! Welcome to my personal website. Get ready for a fun adventure!</center></h2>
+<h2 style="color:#FF339F"><center>Hello there! Welcome to my personal website. Get ready for a fun adventure!</center></h2>
 <div>
 <center><img src="Images/PHOTO-2021-04-21-15-11-49.jpg"></center>
 
@@ -38,4 +38,4 @@
 <h3><center>Moving on to my passions, I really like painting. I find art to have a therapatic effect on me, so I try to spend as much of my free time on painting, drawing, or visiting museums. 
 <center><img src="Images/IMG_6499.jpg" width="450" height="400"></center>
 <div>
-<h2><center>Thank you for coming to my website, I hope you had a wonderful time!!!</center></h2>
+<h2 style="color:#FF339F"><center>Thank you for coming to my website, I hope you had a wonderful time!!!</center></h2>
