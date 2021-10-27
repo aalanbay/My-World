@@ -22,7 +22,7 @@
   
 <h3><center>Next, Turkish coffee plays a significant role in social interactions. There is a common saying that emphasizes how important it is to make a good Turkish coffee: "A cup of coffee is remembered for 40 years", so everyone is taught how to prepare one from early age.</center></h3>
 <center><img src="Images/trkahve.jpg" width="500" height="303"></center>
-<p><center>Photo Credit: Ahmed Aqtai<p></center>
+<p><center>Photo Credit: Ahmed Aqtai<p>
 
 <div>
 <h3><center>Lastly, Baklava is a very famous desert that has both religious and cultural roots. It has many layers of dough, sometimes over 30, which requires many hours of labor. It is common to find Baklava in every Turkish restaurant but is very difficult to prepare it at home.</center></h3>
