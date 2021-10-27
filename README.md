@@ -27,10 +27,13 @@
 <div>
 <h3><center>Lastly, Baklava is a very famous desert that has both religious and cultural roots. It has many layers of dough, sometimes over 30, which requires many hours of labor. It is common to find Baklava in every Turkish restaurant but is very difficult to prepare it at home.</center></h3>
 <center><img src="Images/baklava.jpg" width="400" height="225"></center>
-<p><center>Photo Credit: Ekrulila<p></center>
+<p><center>Photo Credit: Ekrulila<p>
 
 <h3><center>Since we have established how much I like Turkish food, we can move on to other aspects of my life. Meet Boris, he is my uncle's Bulldog, and my one and only love in this world.</center></h3>
 <center><img src="Images/boris.jpg" width="225" height="400"></center>
 <h3><center>One thing about me is that I love animals. I have fed many stray cats during my upbringing, and I adopted one of them recently. Introducing Fluffy, the smartest cat I have encountered, and her baby Smoke.</center></h3>
-<center><img src="Images/IMG_5725.jpg"></center>
+<center><img src="Images/IMG_5725.jpg" width="500" height="303"></center>
  
+<div>
+<h3><center>Moving on to my passions, I really like painting. I find art to have a therapatic effect on me, so I try to spend as much of my free time on painting, drawing, or visiting museums. 
+  
