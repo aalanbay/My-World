@@ -19,7 +19,7 @@
 <center><img src="Images/menemen.jpg" width="400" height="300"></center>
 <h3><center>For example, breakfast has an important role in my culture. My favorite breakfast dish "Menemen", which is a combination of eggs, tomato, green peppers, and spices (shown in the picture above).</center></h3>
 <div>
-  
+  <h4><center>~~~~~</center></h4> 
 <h3><center>Next, Turkish coffee plays a significant role in social interactions. There is a common saying that emphasizes how important it is to make a good Turkish coffee: "A cup of coffee is remembered for 40 years", so everyone is taught how to prepare one from early age.</center></h3>
 <center><img src="Images/trkahve.jpg" width="500" height="303"></center>
 <p><center>Photo Credit: Ahmed Aqtai<p>
