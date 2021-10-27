@@ -12,10 +12,17 @@
 <div>
 <h3><center>Istanbul is a city of history, art, food, architecture, and nature. This metropolitan city connects tow continens: Europe and Asia.</center></h3>
 <div>
+  
 <h3><center>While I enjoy walking around and taking in the beuty of Istanbul, I should definetely mention Turkish food. While Kebap is the first thing that comes into mind, there are many other traditional Turkish dishes that are well appreciated.</center></h3>
 <div>
-<center><img src="Images/menemen.jpg" width="500" height="303"></center>
+  
+<center><img src="Images/menemen.jpg" width="400" height="225"></center>
 <h3><center>For example, breakfast has an important role in my culture. My favorite breakfast dish "Menemen", which is a combination of eggs, tomato, green peppers, and spices (shown in the picture above).</center></h3>
 <div>
+  
 <h3><center>Next, Turkish coffee plays a significant role in social interactions. There is a common saying that emphasizes how important it is to make a good Turkish coffee: "A cup of coffee is remembered for 40 years", so everyone is taught how to prepare one from early age.</center></h3>
 <center><img src="Images/trkahve.jpg" width="500" height="303"></center>
+
+<div>
+Lastly, Baklava is a very famous desert that has both religious and cultural roots. It has many layers of dough, sometimes over 30, which requires many hours of labor. It is common to find Baklava in every Turkish restaurant but is very difficult to prepare it at home. 
+<center><img src="Images/baklava.jpg" width="400" height="225"></center>
