@@ -36,5 +36,6 @@
  
 <div>
 <h3><center>Moving on to my passions, I really like painting. I find art to have a therapatic effect on me, so I try to spend as much of my free time on painting, drawing, or visiting museums. 
-<center><img src="Images/IMG_6499.jpg" width="400" height="400"></center>
-
+<center><img src="Images/IMG_6499.jpg" width="450" height="400"></center>
+<div>
+<h2><center>Thank you for coming to my website, I hope you had a wonderful time!!!</center></h2>
