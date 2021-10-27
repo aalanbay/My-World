@@ -1,19 +1,24 @@
 <h1><center>Alara's World</center></h1>
 <div>
   
-<h2>Hello there! Welcome to my personal website. Get ready for a fun adventure!!</h2>
+<h2><center>Hello there! Welcome to my personal website. Get ready for a fun adventure!</center></h2>
 <div>
 <img src="Images/PHOTO-2021-04-21-15-11-49.jpg">
 
-<h2>So, let me introduce myself. I'm Alara and I'm from Istanbul. The picture above is from one of my favorite neighborhoods in the city, called Galata. The tall monument is called Galata Tower, and is a historical landmark.</h2>
+<h2><center>So, let me introduce myself. I'm Alara and I'm from Istanbul. The picture above is from one of my favorite neighborhoods in the city, called Galata. The tall monument is called Galata Tower, and is a historical landmark.</center></h2>
 
 <div>
 <img src="Images/bogaz.jpg" width="500" height="303"> 
 <img src="Images/kopru.jpg" width="500" height="303"> 
 
 <div>
-<h2>Istanbul is a city of history, art, food, architecture, and nature. This metropolitan city connects tow continens: Europe and Asia.</h2>
+<h2><center>Istanbul is a city of history, art, food, architecture, and nature. This metropolitan city connects tow continens: Europe and Asia.</center></h2>
 <div>
-<h2>While I enjoy walking around and taking in the beuty of Istanbul, I should definetely mention Turkish food. While Kebap is the first thing that comes into mind, there are many other traditional Turkish dishes that are well appreciated by its citizens.</h2>
+<h2><center>While I enjoy walking around and taking in the beuty of Istanbul, I should definetely mention Turkish food. While Kebap is the first thing that comes into mind, there are many other traditional Turkish dishes that are well appreciated.</center></h2>
 <div>
-  
+<img src="Images/menemen.jpg">
+<h2><center>For example, breakfast has an important role in my culture. My favorite breakfast dish "Menemen", which is a combination of eggs, tomato, green peppers, and spices (shown in the picture above).</center></h2>
+<div>
+<h2><center>Next, Turkish coffee plays a significant role in social interactions. There is a common saying that emphasizes how important it is to make a good Turkish coffee: "A cup of coffee is remembered for 40 years", so everyone is taught how to prepare one from early age.</center></h2>
+<img src="Images/trkahve.jpg">
+ 
