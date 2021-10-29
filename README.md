@@ -10,14 +10,14 @@
 <center><img src="Images/kopru.jpg" width="500" height="303"></center>
 
 <div>
-<h3><center>Istanbul is a city of history, art, food, architecture, and nature. This metropolitan city connects tow continens: Europe and Asia.</center></h3>
+<h3><center>Istanbul is a city of history, art, food, architecture, and nature. This metropolitan city connects two continens: Europe and Asia.</center></h3>
 <div>
   
 <h3><center>While I enjoy walking around and taking in the beuty of Istanbul, I should definetely mention Turkish food. While Kebap is the first thing that comes into mind, there are many other traditional Turkish dishes that are well appreciated.</center></h3>
 <div>
   
 <center><img src="Images/menemen.jpg" width="400" height="300"></center>
-<h3><center>For example, breakfast has an important role in my culture. My favorite breakfast dish "Menemen", which is a combination of eggs, tomato, green peppers, and spices (shown in the picture above).</center></h3>
+<h3><center>For example, breakfast has an important role in my culture. My favorite breakfast dish is called "Menemen", which is a combination of eggs, tomato, green peppers, and spices (shown in the picture above).</center></h3>
 <div>
 <h4><center>~~~~~</center></h4> 
 
